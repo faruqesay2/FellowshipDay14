@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day14\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day14\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day14\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day14\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day14\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.CoreCompileInputs.cache
